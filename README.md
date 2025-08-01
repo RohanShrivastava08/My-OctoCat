@@ -21,9 +21,10 @@
 
 ## 📂 Repository Structure
 
+```bash
 📁 My-OctoCat/
 ├── README.md
----
+```
 
 ## 📸 Preview
 
